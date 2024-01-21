@@ -7,3 +7,9 @@
 .font-manrope {
   font-family: "Manrope", sans-serif;
 }
+
+.common-p {
+  color: #777;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+}
